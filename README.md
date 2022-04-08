@@ -1,4 +1,4 @@
-# dio-1-desafio
+# 1 Desafio DIO
 Primeiro desafio DIO
 Assunto: Git/Github
 
